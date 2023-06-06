@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\stepa\Documents\CppProjects\Pong\VStudio\PongSFML\main.cpp(83,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  PongSFML.vcxproj -> C:\Users\stepa\Documents\CppProjects\Pong\VStudio\PongSFML\x64\Debug\PongSFML.exe
